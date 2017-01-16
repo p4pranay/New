@@ -2,6 +2,6 @@ package newproject;
 
 public abstract class Demotest {
 
-	abstract void Pay(int amount);
+	abstract void Pay1(int amount);
 
 }
